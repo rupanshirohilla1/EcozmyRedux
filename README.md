@@ -19,8 +19,6 @@ Check out the live website here: [Live Website](https://ecozmy-redux.vercel.app/
 
 - React
 - React Router
-- Redux (if used for state management)
-- Axios (if used for API calls)
 - CSS/SCSS for styling
 - Any other libraries or tools
 
